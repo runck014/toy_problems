@@ -1,0 +1,3 @@
+# Deterministic Interpolation using Inverse Distance Weighted
+
+Spatial interpolation is the process of estimating unknown values across space by making use of the values that we do know and using the assumptions that we can make based on Tobler's First Law of Geography. It may also sometimes be referred to as spatial predicition. Inverse Distance Weighted (IDW) interpolation is a deterministic interpolation method (meaning that the outputs for a given set of inputs will always be the same) that makes use of a fundamental mathematical concept in GIScience known as the Weighted Linear Combination (WLC).
